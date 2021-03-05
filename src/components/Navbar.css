@@ -1,0 +1,13 @@
+.app-link {
+  text-decoration: none !important;
+  color: white !important;
+  margin: 10px;
+}
+
+.app-link:hover {
+  color: #17a2b8 !important;
+}
+
+.active-link {
+  color: rgb(199, 110, 8) !important;
+}
